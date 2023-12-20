@@ -1,2 +1,3 @@
-# .github
-A repo to say hi to everyone
+# Welcome
+
+Welcome to Stafford Computing LLC's Github page.
